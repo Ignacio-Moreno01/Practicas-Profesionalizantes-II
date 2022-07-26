@@ -1,1 +1,1 @@
-# PP2_Ignacio_Moreno
+# Repositorio de la materia Practicas Profesionalizantes II
